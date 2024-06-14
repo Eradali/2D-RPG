@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1910526921
+    locked: 0
+  - name: TownGround
+    uniqueID: 2013186349
+    locked: 0
+  - name: Floor
+    uniqueID: 4253504339
+    locked: 0
+  - name: Floor Decoration
+    uniqueID: 3537358831
+    locked: 0
+  - name: TowmShadows
+    uniqueID: 2176578709
+    locked: 0
+  - name: Shadows
+    uniqueID: 3414143863
+    locked: 0
+  - name: Overlay
+    uniqueID: 3003821039
+    locked: 0
+  - name: TownOverlays
+    uniqueID: 2720765895
+    locked: 0
+  - name: DungeonWalls
+    uniqueID: 1692042187
+    locked: 0
+  - name: Dungon WalkableObj
+    uniqueID: 2431606885
+    locked: 0
+  - name: Water
+    uniqueID: 623220317
+    locked: 0
+  - name: Walkable Objects
+    uniqueID: 4096020209
+    locked: 0
+  - name: Player
+    uniqueID: 3691689843
+    locked: 0
+  - name: WalkableBoundry
+    uniqueID: 3653576769
+    locked: 0
+  - name: Cliff
+    uniqueID: 2378029973
+    locked: 0
+  - name: GameLayer
+    uniqueID: 281559931
+    locked: 0
+  - name: Objects
+    uniqueID: 3237029997
+    locked: 0
+  - name: Tree Branch
+    uniqueID: 1539216899
+    locked: 0
+  - name: Trees
+    uniqueID: 1508670945
+    locked: 0
+  - name: Faded Tree
+    uniqueID: 3621796791
+    locked: 0
+  - name: Walls
+    uniqueID: 2199876291
+    locked: 0
+  - name: Town Walls & Blocking
+    uniqueID: 3848597165
+    locked: 0
+  - name: Rooftops
+    uniqueID: 3964631215
+    locked: 0
+  - name: Over Rooftops
+    uniqueID: 4238756595
+    locked: 0
+  - name: Above Player
+    uniqueID: 3490263343
+    locked: 0
