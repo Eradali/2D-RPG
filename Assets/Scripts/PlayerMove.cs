@@ -30,6 +30,7 @@ public class PlayerMove : MonoBehaviour
     private void Move()
     {
         moveInput = move.action.ReadValue<Vector2>();
+        print(moveInput);
         //if condition is for player facing that direction where it stop its move for animation
        
          if (moveInput != Vector2.zero)
